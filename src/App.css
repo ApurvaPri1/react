@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* .App {
+  width: 100vw;
+  height: 100vh;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.Sidebar {
+  height: 300%;
+  width: 200px;
+  background-color: aqua;
+} */

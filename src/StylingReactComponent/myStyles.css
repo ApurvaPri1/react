@@ -1,0 +1,12 @@
+.primary {
+    color: red;
+}
+
+.font-xl {
+    font-size: 72px;
+} 
+
+.body {
+    background-color: yellow;
+    text-align: center;
+}

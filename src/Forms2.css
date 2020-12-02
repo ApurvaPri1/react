@@ -1,0 +1,6 @@
+.error {
+    border: 5px outset blue;
+    text-align: center;
+    background-color: silver;
+    color: red
+}

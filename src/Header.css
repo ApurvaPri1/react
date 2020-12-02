@@ -1,0 +1,28 @@
+.HeaderLogo {
+    text-align: center;
+    color: blue;
+    background-color: tomato;
+    padding: 30px outset green;
+    height: 20%;
+}
+.HeaderTop {
+    background-color: silver;
+    /* text-align: right; */
+    color: green;
+    padding: 5px;
+    
+
+}
+/* .HeaderTop li{
+    padding: 0;
+    margin: 0;
+    
+    display: inline-block;
+    margin-left: 10px;
+} */
+.logo {
+    align-items: top;
+    width: 10%;
+    background-color: pink;
+    background-image: url(./abc.jpg)
+}
